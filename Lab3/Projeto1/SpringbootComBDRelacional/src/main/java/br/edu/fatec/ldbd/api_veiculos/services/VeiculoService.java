@@ -29,4 +29,14 @@ public class VeiculoService {
     public void deletar(Long id) {
         repository.deleteById(id);
     }
+
+    public Veiculo atualizar(Long id, Veiculo veiculoAtualizado) {
+        return repository.findById(id).map(veiculo -> {
+            veiculo.setModelo(veiculoAtualizado.getModelo());
+            veiculo.setMarca(veiculoAtualizado.getMarca());
+            veiculo.setPlaca(veiculoAtualizado.getPlaca());
+            veiculo.setAno(veiculoAtualizado.getAno());
+            return repository.save(veiculo);
+        }).orElse(null);
+    }
 }

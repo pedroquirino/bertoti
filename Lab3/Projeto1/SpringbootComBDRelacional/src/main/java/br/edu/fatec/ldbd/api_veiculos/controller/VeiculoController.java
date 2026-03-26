@@ -37,4 +37,9 @@ public class VeiculoController {
         service.deletar(id);
         return ResponseEntity.noContent().build();
     }
+    @PutMapping("/{id}")
+    public ResponseEntity<Veiculo> atualizar(@PathVariable Long id, @RequestBody Veiculo veiculo) {
+        Veiculo atualizado = service.atualizar(id, veiculo);
+        return atualizado != null ? ResponseEntity.ok(atualizado) : ResponseEntity.notFound().build();
+    }
 }
