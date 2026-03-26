@@ -1,7 +1,7 @@
 package br.edu.fatec.ldbd.api_veiculos.controller;
 
 import br.edu.fatec.ldbd.api_veiculos.model.Veiculo;
-import br.edu.fatec.ldbd.api_veiculos.service.VeiculoService;
+import br.edu.fatec.ldbd.api_veiculos.services.VeiculoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

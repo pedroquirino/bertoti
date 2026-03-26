@@ -1,4 +1,4 @@
-package br.edu.fatec.ldbd.api_veiculos.service;
+package br.edu.fatec.ldbd.api_veiculos.services;
 
 import br.edu.fatec.ldbd.api_veiculos.model.Veiculo;
 import br.edu.fatec.ldbd.api_veiculos.repository.VeiculoRepository;
