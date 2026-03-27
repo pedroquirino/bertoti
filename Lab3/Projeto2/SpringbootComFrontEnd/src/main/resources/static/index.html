@@ -1,10 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<h1>
+    Gerenciador de Veículos
+</h1>
+<div class="container">
+    <form id="formVeiculo">
+        <input type="text" id="modelo" placeholder="Modelo (Ex: Celta)" required>
+        <input type="text" id="marca" placeholder="Marca (Ex: Chevrolet)" required>
+        <input type="text" id="placa" placeholder="Placa" required>
+        <input type="number" id="ano" placeholder="Ano" required>
+        <button type="submit">Salvar</button>
+    </form>
+
+    <hr> <table border="1">
+    <thead>
+    <tr>
+        <th>Modelo</th>
+        <th>Marca</th>
+        <th>Placa</th>
+        <th>Ano</th>
+        <th>Ações</th>
+    </tr>
+    </thead>
+    <tbody id="tabelaCorpo">
+    </tbody>
+</table>
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
