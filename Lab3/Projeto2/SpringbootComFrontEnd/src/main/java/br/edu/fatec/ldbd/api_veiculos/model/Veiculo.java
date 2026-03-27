@@ -20,4 +20,5 @@ public class Veiculo {
     private String marca;
     private String placa;
     private Integer ano;
+    private String cor;
 }

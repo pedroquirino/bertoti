@@ -36,6 +36,7 @@ public class VeiculoService {
             veiculo.setMarca(veiculoAtualizado.getMarca());
             veiculo.setPlaca(veiculoAtualizado.getPlaca());
             veiculo.setAno(veiculoAtualizado.getAno());
+            veiculo.setCor(veiculoAtualizado.getCor());
             return repository.save(veiculo);
         }).orElse(null);
     }

@@ -1,35 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Gerenciador de Veículos</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>
-    Gerenciador de Veículos
-</h1>
-<div class="container">
-    <form id="formVeiculo">
-        <input type="text" id="modelo" placeholder="Modelo (Ex: Celta)" required>
-        <input type="text" id="marca" placeholder="Marca (Ex: Chevrolet)" required>
-        <input type="text" id="placa" placeholder="Placa" required>
-        <input type="number" id="ano" placeholder="Ano" required>
-        <button type="submit">Salvar</button>
-    </form>
 
-    <hr> <table border="1">
-    <thead>
+<div class="container">
+    <h1>Gerenciador de Veículos</h1> <form id="formVeiculo">
+    <input type="text" id="modelo" placeholder="Modelo (Ex: Celta)" required>
+    <input type="text" id="marca" placeholder="Marca (Ex: Chevrolet)" required>
+    <input type="text" id="placa" placeholder="Placa" required>
+    <input type="number" id="ano" placeholder="Ano" required>
+    <input type="text" id="cor" placeholder="Cor" required>
+    <button type="submit">Salvar</button>
+</form>
+
+    <hr>
+
+    <table> <thead>
     <tr>
         <th>Modelo</th>
         <th>Marca</th>
         <th>Placa</th>
         <th>Ano</th>
+        <th>Cor</th>
         <th>Ações</th>
     </tr>
     </thead>
-    <tbody id="tabelaCorpo">
-    </tbody>
-</table>
+        <tbody id="tabelaCorpo">
+        </tbody>
+    </table>
 </div>
 
 <script src="script.js"></script>
