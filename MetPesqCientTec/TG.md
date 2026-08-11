@@ -7,20 +7,20 @@
 # Meus Projetos
 
 <details>
-<summary><b> 01/2025 1º Semestre - Desafio Proposto: Sistema de Controle e Análise de Abastecimento das Viaturas do IPEM – Regional de São José dos Campos </b></summary>
+<summary><b> 01/2025 1º Semestre -  Desenvolvimento de Aplicação de Cálculo de Sequências Lógicas </b></summary>
   <br>
   
-  <b>Empresa Parceira: IPEM-SP - INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE SÃO PAULO<b>
+  <b>Empresa Parceira: FATEC JESSEN VIDAL (Projeto Interno)<b>
 
   </details>
   <details>
-  <summary><b> 02/2025 2º Semestre - Desafio Proposto: Sistema de Controle e Análise de Abastecimento das Viaturas do IPEM – Regional de São José dos Campos </b></summary>
+  <summary><b> 02/2025 2º Semestre -  Ciclo de Vida de Trabalhos de Graduação (TG) da Modalidade Portfólio </b></summary>
   <br>
   
-  <b>Empresa Parceira: IPEM-SP - INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE SÃO PAULO<b>
+  <b>Empresa Parceira: FATEC JESSEN VIDAL (Projeto Interno<b>
   </details>
   <details>
-<summary><b> 01/2026 3º Semestre - Desafio Proposto: Sistema de Controle e Análise de Abastecimento das Viaturas do IPEM – Regional de São José dos Campos </b></summary>
+<summary><b> 01/2026 3º Semestre - Sistema de Controle e Análise de Abastecimento das Viaturas do IPEM – Regional de São José dos Campos </b></summary>
   <br>
   
   ### Empresa Parceira: IPEM-SP - INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE SÃO PAULO
@@ -35,5 +35,5 @@ Desenvolver um sistema web que permita o registro digital dos abastecimentos pel
 
 ### Solução
 
-IPEM CONTROL
+<img src="../MetPesqCientTec/files/IPEMCONTROL.png" alt="IPEM CONTROL" width="100%">
 </details>
