@@ -1,4 +1,9 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="220" align="center">
+<img src="https://raw.githubusercontent.com/pedroquirino/bertoti/main/MetPesqCientTec/files/fotopedro.jpeg" width="190" alt="Foto de Pedro Henrique Pereira Quirino">
+</td>
+<td>
 
 # Pedro Henrique Pereira Quirino
 
@@ -6,11 +11,13 @@
 
 📍 São José dos Campos, SP &nbsp;·&nbsp; 🎓 FATEC São José dos Campos &nbsp;·&nbsp; 💼 Sonaca España do Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B5D3B?style=flat-square&logo=linkedin&logoColor=C9A227&labelColor=0B5D3B)](https://www.linkedin.com/in/phpquirino/)
-[![Email](https://img.shields.io/badge/Email-0B5D3B?style=flat-square&logo=gmail&logoColor=C9A227&labelColor=0B5D3B)](mailto:pedrohpquirino@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0B5D3B?style=flat-square&logo=github&logoColor=C9A227&labelColor=0B5D3B)](https://github.com/pedroquirino/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F4FA3?style=flat-square&logo=linkedin&logoColor=F5C518&labelColor=1F4FA3)](https://www.linkedin.com/in/phpquirino/)
+[![Email](https://img.shields.io/badge/Email-1F4FA3?style=flat-square&logo=gmail&logoColor=F5C518&labelColor=1F4FA3)](mailto:pedrohpquirino@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1F4FA3?style=flat-square&logo=github&logoColor=F5C518&labelColor=1F4FA3)](https://github.com/pedroquirino/)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,13 +47,13 @@
 
 | Curso | Instituição | Período | Situação |
 |---|---|---|---|
-| **Tecnologia em Banco de Dados** | FATEC São José dos Campos | 2025 – em andamento | ⏳ 4º semestre |
-| Técnico em Enfermagem | CEPHAS Colégio de Educação Profissional Hélio Augusto de Souza | 2018 – 2019 | ✅ Concluído |
+| **Tecnologia em Banco de Dados** | FATEC São José dos Campos | 2025 – em andamento | 🟡 4º semestre |
+| Técnico em Enfermagem | CEPHAS Colégio de Educação Profissional Hélio Augusto de Souza | 2018 – 2019 | 🔵 Concluído |
 | Tecnologia em Análise e Desenvolvimento de Sistemas | FATEC São José dos Campos | 2016 – 2017 | ⚪ Incompleto |
-| Técnico em Informática | ETEC São José dos Campos | 2014 – 2015 | ✅ Concluído |
-| Técnico em Eletrônica | CEPHAS Colégio de Educação Profissional Hélio Augusto de Souza | 2011 – 2013 | ✅ Concluído |
-| Curso de Aprendizagem Industrial | SENAI Santos Dumont | 2011 – 2013 | ✅ Concluído |
-| Ensino Médio | Escola Estadual Estevam Ferri | 2010 – 2012 | ✅ Concluído |
+| Técnico em Informática | ETEC São José dos Campos | 2014 – 2015 | 🔵 Concluído |
+| Técnico em Eletrônica | CEPHAS Colégio de Educação Profissional Hélio Augusto de Souza | 2011 – 2013 | 🔵 Concluído |
+| Curso de Aprendizagem Industrial | SENAI Santos Dumont | 2011 – 2013 | 🔵 Concluído |
+| Ensino Médio | Escola Estadual Estevam Ferri | 2010 – 2012 | 🔵 Concluído |
 
 ---
 
@@ -56,7 +63,7 @@
 
 Atuo no desenvolvimento de soluções utilizando Vue.js, JavaScript e Node.js, além de realizar a gestão e consultas de dados com o pgadmin4. Presto auxílio com suporte em infraestrutura e redes, organização do ambiente de TI e colaboro com demandas pontuais envolvendo conceitos de SAP e conteinerização com Docker.
 
-![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento_Web-0B5D3B?style=flat-square&labelColor=0B5D3B&color=0B5D3B) ![Infraestrutura & Redes](https://img.shields.io/badge/Infraestrutura_%26_Redes-0B5D3B?style=flat-square&labelColor=0B5D3B&color=0B5D3B) ![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-0B5D3B?style=flat-square&labelColor=0B5D3B&color=0B5D3B)
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento_Web-1F4FA3?style=flat-square&labelColor=1F4FA3&color=1F4FA3) ![Infraestrutura & Redes](https://img.shields.io/badge/Infraestrutura_%26_Redes-1F4FA3?style=flat-square&labelColor=1F4FA3&color=1F4FA3) ![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-1F4FA3?style=flat-square&labelColor=1F4FA3&color=1F4FA3)
 
 > Essa vivência no ambiente industrial e corporativo da Sonaca complementa diretamente o que aprendo na FATEC, permitindo que eu aplique na prática conceitos de desenvolvimento backend, modelagem de dados e resolução de problemas técnicos do dia a dia.
 
@@ -77,20 +84,20 @@ Atuo no desenvolvimento de soluções utilizando Vue.js, JavaScript e Node.js, a
 <!-- Catálogo de logos: https://simpleicons.org  ·  Apague as categorias que não usar. -->
 
 **Linguagens e back-end** ·
-![Java](https://img.shields.io/badge/Java-0B5D3B?style=flat-square&logo=openjdk&logoColor=C9A227&labelColor=0B5D3B)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B5D3B?style=flat-square&logo=springboot&logoColor=C9A227&labelColor=0B5D3B)
+![Java](https://img.shields.io/badge/Java-1F4FA3?style=flat-square&logo=openjdk&logoColor=F5C518&labelColor=1F4FA3)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1F4FA3?style=flat-square&logo=springboot&logoColor=F5C518&labelColor=1F4FA3)
 
 **Bancos de dados** ·
-![MySQL](https://img.shields.io/badge/MySQL-0B5D3B?style=flat-square&logo=mysql&logoColor=C9A227&labelColor=0B5D3B)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-0B5D3B?style=flat-square&logo=oracle&logoColor=C9A227&labelColor=0B5D3B)
+![MySQL](https://img.shields.io/badge/MySQL-1F4FA3?style=flat-square&logo=mysql&logoColor=F5C518&labelColor=1F4FA3)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-1F4FA3?style=flat-square&logo=oracle&logoColor=F5C518&labelColor=1F4FA3)
 
 **Ferramentas** ·
-![Git](https://img.shields.io/badge/Git-0B5D3B?style=flat-square&logo=git&logoColor=C9A227&labelColor=0B5D3B)
-![Postman](https://img.shields.io/badge/Postman-0B5D3B?style=flat-square&logo=postman&logoColor=C9A227&labelColor=0B5D3B)
+![Git](https://img.shields.io/badge/Git-1F4FA3?style=flat-square&logo=git&logoColor=F5C518&labelColor=1F4FA3)
+![Postman](https://img.shields.io/badge/Postman-1F4FA3?style=flat-square&logo=postman&logoColor=F5C518&labelColor=1F4FA3)
 
 **Front-end** ·
-![HTML5](https://img.shields.io/badge/HTML5-0B5D3B?style=flat-square&logo=html5&logoColor=C9A227&labelColor=0B5D3B)
-![CSS3](https://img.shields.io/badge/CSS3-0B5D3B?style=flat-square&logo=css3&logoColor=C9A227&labelColor=0B5D3B)
+![HTML5](https://img.shields.io/badge/HTML5-1F4FA3?style=flat-square&logo=html5&logoColor=F5C518&labelColor=1F4FA3)
+![CSS3](https://img.shields.io/badge/CSS3-1F4FA3?style=flat-square&logo=css3&logoColor=F5C518&labelColor=1F4FA3)
 
 **Escala:** `▰▱▱▱▱` Básico · `▰▰▰▱▱` Intermediário · `▰▰▰▰▱` Avançado
 
@@ -118,14 +125,16 @@ Atuo no desenvolvimento de soluções utilizando Vue.js, JavaScript e Node.js, a
 |---|---|
 | **Empresa parceira** | [IPEM-SP](https://www.ipem.sp.gov.br/ipem) |
 | **Equipe** | SquadTech |
-| **Repositórios** | [![Principal](https://img.shields.io/badge/Principal-C9A227?style=flat-square&logo=github&logoColor=0B5D3B&labelColor=C9A227)](https://github.com/SquadTech-API) [![Backend](https://img.shields.io/badge/Backend-C9A227?style=flat-square&logo=github&logoColor=0B5D3B&labelColor=C9A227)](https://github.com/SquadTech-API/API3_BACKEND) [![Frontend](https://img.shields.io/badge/Frontend-C9A227?style=flat-square&logo=github&logoColor=0B5D3B&labelColor=C9A227)](https://github.com/SquadTech-API/API3_FRONTEND) |
+| **Repositórios** | [![Principal](https://img.shields.io/badge/Principal-F5C518?style=flat-square&logo=github&logoColor=1F4FA3&labelColor=F5C518)](https://github.com/SquadTech-API) [![Backend](https://img.shields.io/badge/Backend-F5C518?style=flat-square&logo=github&logoColor=1F4FA3&labelColor=F5C518)](https://github.com/SquadTech-API/API3_BACKEND) [![Frontend](https://img.shields.io/badge/Frontend-F5C518?style=flat-square&logo=github&logoColor=1F4FA3&labelColor=F5C518)](https://github.com/SquadTech-API/API3_FRONTEND) |
 
 #### Problema
 
+> [!WARNING]
 > O controle de abastecimento das viaturas da Regional de São José dos Campos do IPEM era realizado inteiramente de forma manual. Os condutores registravam em pranchetas físicas mantidas dentro de cada veículo informações como quilometragem, quantidade de combustível, valor abastecido e identificação do condutor. Ao final de cada período, o Diretor da unidade precisava reunir manualmente todas essas anotações, conferi-las individualmente e consolidar os dados para controle interno e posterior digitação no sistema corporativo SGI. Esse fluxo manual comprometia diretamente a eficiência da gestão da frota, tornando difícil realizar análises comparativas entre viaturas, acompanhar o consumo médio de combustível de cada uma delas ou identificar rapidamente inconsistências nos registros.
 
 #### Solução entregue pela equipe
 
+> [!NOTE]
 > Desenvolvido pela SquadTech para o IPEM – Regional de São José dos Campos, o sistema web nasceu com a missão de transformar digitalmente o controle de frota, aposentando de vez os antigos registros manuais em pranchetas físicas. A plataforma centraliza todo o fluxo operacional, permitindo que os condutores realizem lançamentos digitais de saídas de veículos e abastecimentos de forma ágil. Para os gestores, a ferramenta traz um módulo dedicado de validação gerencial e uma central robusta de relatórios analíticos e dashboards exportáveis em PDF, Excel, CSV e Word.
 
 #### Tecnologias utilizadas
@@ -237,7 +246,7 @@ No backend, fiz **44 dos 215 commits** do repositório (o maior número entre os
 </details>
 
 <details>
-<summary>♻️ <b>Sprint 3</b> — Padronização do código e perfil do usuário · mai/2026</summary>
+<summary>🔄 <b>Sprint 3</b> — Padronização do código e perfil do usuário · mai/2026</summary>
 
 | Data | Issue | Entrega |
 |---|---|---|
@@ -439,16 +448,14 @@ O usuário comum precisa corrigir o próprio nome ou trocar a senha sem depender
 | **Pensamento crítico e resolução de problemas** | No retorno do veículo, antecipei os casos de dado inconsistente (saída já encerrada, KM final menor que o inicial, chegada antes da saída) e os tratei com mensagens claras, e identifiquei que arquivos de build e credenciais estavam versionados e corrigi o problema. |
 | **Adaptabilidade e flexibilidade** | Quando a convenção de nomes do projeto mudou, adaptei o módulo de abastecimento e depois conduzi a refatoração de 13 entidades para inglês. |
 
-> Projetos de outros semestres entram aqui em breve, seguindo o mesmo formato.
-
 ---
 
 ## Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B5D3B?style=flat-square&logo=linkedin&logoColor=C9A227&labelColor=0B5D3B)](https://www.linkedin.com/in/phpquirino/)
-[![Email](https://img.shields.io/badge/Email-0B5D3B?style=flat-square&logo=gmail&logoColor=C9A227&labelColor=0B5D3B)](mailto:pedrohpquirino@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0B5D3B?style=flat-square&logo=github&logoColor=C9A227&labelColor=0B5D3B)](https://github.com/pedroquirino/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F4FA3?style=flat-square&logo=linkedin&logoColor=F5C518&labelColor=1F4FA3)](https://www.linkedin.com/in/phpquirino/)
+[![Email](https://img.shields.io/badge/Email-1F4FA3?style=flat-square&logo=gmail&logoColor=F5C518&labelColor=1F4FA3)](mailto:pedrohpquirino@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1F4FA3?style=flat-square&logo=github&logoColor=F5C518&labelColor=1F4FA3)](https://github.com/pedroquirino/)
 
 </div>
